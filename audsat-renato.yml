@@ -1,0 +1,11 @@
+name: audsat-renato
+channels:
+- conda-forge
+dependencies:
+- python=3.7
+- numpy
+- scikit-image
+- geopandas
+- gdal
+- matplotlib
+- pandas
