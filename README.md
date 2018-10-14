@@ -26,7 +26,7 @@ $ mkdir ./DESAFIO_PYTHON/IMAGENS_PLANET/ndvi_imgs
 - Pasta *ndvi_imgs* criada dentro da pasta *IMAGENS_PLANET*
 ### 3. Executando o código
 
-*	Alguns exemplos das imagens geradas pelo meu código estão na pasta *imgs_examples*
+*	Alguns exemplos das imagens geradas pelo meu código estão na pasta *imgs_examples* (estao como PNG para facilitar visualização)
 
 | Arquivo a ser rodado  | Exercício | Descrição |
 | ---------------------- | ------ | ----- |
