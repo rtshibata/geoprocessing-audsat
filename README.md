@@ -1,7 +1,5 @@
 # Desafio de Programação em Python - **Audsat**
 
-![N|Solid](http://www.audsat.com.br/images/logo_audsat_20170502.png) 
-
 ### Sistemas de Informações Geográficas (SIG) & Sensoriamento Remoto
 -----------------
 
@@ -9,7 +7,6 @@
  - Ubuntu 16.04
  - [Miniconda](https://conda.io/miniconda.html) - Python 3.7 - Linux 64-bit (Bash installer)
  - Dependências em `audsat-renato.yml`
- 
 ### 2. Preparando o ambiente:
 Depois de ter instalado Miniconda/Anaconda crie o ambiente:
 ```sh
@@ -19,7 +16,8 @@ Então ative o novo ambiente:
 ```sh
 $ source activate audsat-renato
 ```
-Extraia tudo do `DESAFIO_PYTHON.zip` e crie a pasta *ndvi_imgs*:
+Baixar o arquivo `DESAFIO_PYTHON.zip` (https://we.tl/t-KVKiQOrDlj), extraia tudo
+e crie a pasta *ndvi_imgs*:
 ```sh
 $ mkdir ./DESAFIO_PYTHON/IMAGENS_PLANET/ndvi_imgs
 ```
